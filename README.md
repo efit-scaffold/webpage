@@ -1,10 +1,11 @@
-# ${name}
+# webpage
 
-${description}
+基于efit构建工具的组件脚手架。
 
-## Usage
+## 使用方法
 
-```bash
+```
 npm i -g efit
+mkdir foo && cd foo
 efit init webpage
 ```
